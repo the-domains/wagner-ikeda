@@ -1,0 +1,28 @@
+name: WAGNER.IKEDA
+favicon: null
+layout_spectrum: 0.958336777985096
+typography_spectrum: 0.7068673903122544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.010803237790241838
+  lightness: 0.9765901800710708
+  saturation: 0.6999555567745119
+  rhythmicContrast: 0.3882933871354908
+purpose: []
